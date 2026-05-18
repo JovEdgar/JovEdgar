@@ -3,10 +3,10 @@
 ### 🚀 About Me
 I am a passionate software developer who loves building impactful solutions and exploring new technologies. I thrive at the intersection of creativity and code, always looking for efficient ways to solve real-world problems.
 
-- 🔭 **Current Focus:** Working on [Mention a current project or field, e.g., Full-Stack Web Development / Machine Learning]
-- 🌱 **Continuous Learning:** Deepening my knowledge in [Mention a technology you are learning, e.g., Next.js, Go, AWS]
-- 💬 **Ask Me About:** [List a few topics, e.g., React, Python, UI/UX Design, Open Source]
-- 📫 **How to Reach Me:** [Your Email / LinkedIn Link / Twitter Link]
+- 🔭 **Current Focus:** Working on [Web Development, Python Backend., Full-Stack Web Development / Machine Learning]
+- 🌱 **Continuous Learning:** Deepening my knowledge in [Pentesting,Ethical Hacking., Next.js, Go, AWS, ts]
+- 💬 **Ask Me About:** [Selftaught(Don't judge!),JS/TS., React, Python, UI/UX Design, Open Source]
+- 📫 **How to Reach Me:** [edgarjovian@gmail.com/ www.linkedin.com/in/jovian-edgar/ @jovedgar.bsky.social]
 
 ---
 
@@ -32,6 +32,6 @@ I am a passionate software developer who loves building impactful solutions and 
 ---
 
 ### ⚡ Fun Facts
-* ☕ Powered by [coffee / tea / code].
-* 🎯 When I'm not coding, you can find me [mention a hobby, e.g., gaming, hiking, playing music, reading].
-* 🧩 Fun realization: "There are 10 types of people in the world: those who understand binary, and those who don't."
+* ☕ Powered by [coffee / rum / code].
+* 🎯 When I'm not coding, you can find me [swimming, quaterStaff practice., photography,playing music, reading].
+* 🧩 Fun realization: "Lifes alway getting lemony"
