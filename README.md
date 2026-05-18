@@ -4,7 +4,7 @@
 I am a passionate software developer who loves building impactful solutions and exploring new technologies. I thrive at the intersection of creativity and code, always looking for efficient ways to solve real-world problems.
 
 - 🔭 **Current Focus:** Working on [Web Development, Python Backend., Full-Stack Web Development / Machine Learning]
-- 🌱 **Continuous Learning:** Deepening my knowledge in [Pentesting,Ethical Hacking., Next.js, Go, AWS, ts]
+- 🌱 **Continuous Learning:** Deepening my knowledge in [Pentesting,Ethical Hacking., Next.js, Go, AWS, TS]
 - 💬 **Ask Me About:** [Selftaught(Don't judge!),JS/TS., React, Python, UI/UX Design, Open Source]
 - 📫 **How to Reach Me:** [edgarjovian@gmail.com/ www.linkedin.com/in/jovian-edgar/ https://bsky.app/profile/jovedgar.bsky.social]
 
